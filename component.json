@@ -1,0 +1,14 @@
+{
+  "name": "set",
+  "repo": "ianstormtaylor/set",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Set a property on a model or object.",
+  "keywords": ["set", "property", "model", "object"],
+  "development": {
+    "brighthas/backbone": "*",
+    "component/assert": "*",
+    "component/model": "*"
+  },
+  "scripts": ["index.js"]
+}
