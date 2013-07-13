@@ -1,6 +1,6 @@
 # set
 
-  Set a property on a model or object.
+  Set a property on a model or object. For the reverse, checkout [`ianstormtaylor/get`](https://github.com/ianstormtaylor/get).
 
 ## Installation
 
