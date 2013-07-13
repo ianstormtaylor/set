@@ -1,4 +1,3 @@
-
 # set
 
   Set a property on a model or object.
@@ -15,7 +14,7 @@ var set = require('set');
 
 var person = { name: 'ulysses' };
 set(person, 'name', 'achilles');
-person.name; // ulysses
+person.name; // achilles
 ```
 
 Getter/setter methods:
