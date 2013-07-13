@@ -20,7 +20,7 @@ person.name; // achilles
 Getter/setter methods:
 ```js
 var set = require('set')
-, model = require('model');
+  , model = require('model');
 
 var Person = model('person').attr('name');
 var person = new Person({ name: 'ulysses' });
